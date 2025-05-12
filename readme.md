@@ -36,7 +36,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone "ссылка на репу"
+git clone https://github.com/SSHINRATENSSEI/cityfeedback-bot.git
 cd cityfeedback-bot
 ```
 
