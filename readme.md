@@ -203,7 +203,7 @@ MIT
 
 ## Авторы
 
-- Ваше имя - [GitHub](https://github.com/SSHINRATENSSEI)
+[SSHINRATENSSEI](https://github.com/SSHINRATENSSEI)
 
 ## Вклад в проект
 
